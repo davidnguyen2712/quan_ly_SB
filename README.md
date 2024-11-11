@@ -1,9 +1,10 @@
 # [WINFORM] QUẢN LÝ SÂN BÓNG
 ## THÀNH VIÊN
 <ol>  
-  <li>Ngọc Trinh</li>
-  <li>Quang Phúc</li>
+  <li>Trọng Đức</li>
+  <li>Quang Linh</li>
+  <li>Duy Minh</li>
+  <li>Gia Hân</li>
+  <li>Phi Ngân</li>
+  <li>Quỳnh Nga</li>
 </ol>
-
-## MÔ HÌNH
-<img src="/anh-bong-da-tren-san-co_105531274.jpg" alt="use case system"/>

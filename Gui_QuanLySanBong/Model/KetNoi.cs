@@ -15,7 +15,7 @@ namespace GUI_QuanLySanBong.Model
     {
         public SqlConnection conDB()
         {
-            SqlConnection con = new SqlConnection(@"Data Source=LAPTOP-59558V0C\SQLEXPRESS;Initial Catalog=QuanLySanBong;Integrated Security=True");
+            SqlConnection con = new SqlConnection(@"Data Source=DVIDNGUYEN\SQLEXPRESS;Initial Catalog=QuanLySanBong;Integrated Security=True");
             return con;
         }
     }
